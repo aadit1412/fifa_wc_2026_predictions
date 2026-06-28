@@ -23,12 +23,7 @@ The goal is to translate historical international football data into a **fully d
 
 ## What's Included
 - `wc26_poisson.ipynb`: Full notebook — data loading, feature engineering, model training, validation, and tournament simulation
-- `group_fixtures.csv`: WC 2026 group stage fixture list
-- `knockout_slots.csv`: WC 2026 knockout bracket structure (Round of 32 → Final)
-- `results.csv`: Historical international match results used for training
-- `former_names.csv`: Historical country name changes for data normalisation
 - `WC_Images`: group standings, knockout bracket results, and match probability reports
-
 ---
 
 ## Methodology Summary
